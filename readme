@@ -1,0 +1,13 @@
+
+public class README {
+/*全都在github里
+ * sample-project：stm的项目,springboot+spring data jpa+spring security+lombok+RabbitMQ+Kafka+ELK
+ * seckill：redis+mq+mybatis（xml）比较正式的秒杀例子(mysql)+mycat(又走普通mysql又走mycat不行，搞了个新的）
+ * springboot-seckill：比较简单的秒杀(xu_xi_rd2)
+ * spring-boot-seckill：一个巨型的秒杀项目，作者还在完善
+ * demo:中间件那本书的kafka一章的小应用
+ * chapter-4+4个dubbo的：以chapter-4（是否可以删）为首的4个module子项目，微服务这本书dubbo的(chapter-4里的项目和根目录的是相通的，运行的话去根目录下面的项目运行
+ * chapter-13-3+3个跟了SNAPSHOT的：dubbo+Oauth2，主要就是gateway那个子模块项目，但两个都要启动。（好像导入maven项目时，所有的pom都要导入。。。。）
+ * mycat:测试mycat+spring的小项目（注解式mybatis）
+ */
+}
