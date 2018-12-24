@@ -2,7 +2,7 @@
 public class README {
 /*全都在github里
  * sample-project：stm的项目,springboot+spring data jpa+spring security+lombok+RabbitMQ+Kafka+ELK
- * seckill：redis+mq+mybatis（xml）比较正式的秒杀例子(mysql)+mycat(又走普通mysql又走mycat不行，搞了个新的）
+ * seckill：redis+mq+mybatis（xml）比较正式的秒杀例子(mysql)+mycat(又走普通mysql又走mycat不行，搞了个新的）+HttpClient测试（在util包里）
  * springboot-seckill：比较简单的秒杀(xu_xi_rd2)SeckillServiceImpl有redis测试
  * spring-boot-seckill：一个巨型的秒杀项目，作者还在完善
  * demo:中间件那本书的kafka一章的小应用
