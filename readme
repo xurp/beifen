@@ -12,5 +12,6 @@ public class README {
  * mycat:测试mycat+spring的小项目（注解式mybatis）
  * bootshardingstudy：用shardingJDBC进行分库分表
  * springboot-jjwt:简单的springboot+JWT,详见https://www.jianshu.com/p/e88d3f8151db
+ * https://github.com/xurp/mybatisTest.git
  */
 }
