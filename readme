@@ -2,7 +2,8 @@
 public class README {
 /*全都在github里
  * sample-project：stm的项目,springboot+spring data jpa+spring security+lombok+RabbitMQ+Kafka+ELK+ES
- * seckill：redis+mq+mybatis（xml）比较正式的秒杀例子(mysql)+mycat(又走普通mysql又走mycat不行，搞了个新的）+HttpClient测试（在util包里）+静态文件（暂不太懂）
+ * seckill：redis+mq+mybatis（xml）比较正式的秒杀例子(mysql)+mycat(又走普通mysql又走mycat不行，搞了个新的项目mycat）+HttpClient测试（在util包里）+静态文件（暂不太懂）
+ * newspringbootseckill:另一套比较标准的秒杀，慕课的，非常类似上面的可以对照着看
  * springboot-seckill：比较简单的秒杀(xu_xi_rd2)SeckillServiceImpl有redis测试
  * demo:中间件那本书的kafka一章的小应用
  * chapter-4+4个dubbo的：以chapter-4（是否可以删）为首的4个module子项目，微服务这本书dubbo的chapter-4里项目和根目录的是相通的，运行的话去根目录下面的项目运行
@@ -11,7 +12,6 @@ public class README {
  * mycat:测试mycat+spring的小项目（注解式mybatis）
  * bootshardingstudy：用shardingJDBC进行分库分表
  * springboot-jjwt:简单的springboot+JWT,详见https://www.jianshu.com/p/e88d3f8151db
- * generatorutil:mybatis自动生成(采坑无数)+简单操作
- * newspringbootseckill:另一套比较标准的秒杀，慕课的
+ * generatorutil:mybatis自动生成(采坑无数)+简单操作 
  */
 }
