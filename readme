@@ -13,5 +13,6 @@ public class README {
  * bootshardingstudy：用shardingJDBC进行分库分表
  * springboot-jjwt:简单的springboot+JWT,详见https://www.jianshu.com/p/e88d3f8151db
  * generatorutil:mybatis自动生成(采坑无数)+简单操作 
+ * redisCluster:简单的redisCluster+spring例子，没测试过，估计是可以的
  */
 }
