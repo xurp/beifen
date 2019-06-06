@@ -15,5 +15,6 @@ public class README {
  * generatorutil:mybatis自动生成(采坑无数)+简单操作 
  * redisCluster:简单的redisCluster+spring例子，没测试过，估计是可以的
  * x-springboot:一个可用的简单后台系统,springboot+redis+mybatisplus+vue
+ * SMRRS(技术首字母):一个简单的商铺系统,SpringBoot+Mybatis+Druid+Pagehelper+Redis+Shiro+RabbitMQ+Freemarker+poi 
  */
 }
