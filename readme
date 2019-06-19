@@ -16,6 +16,8 @@ public class README {
  * generatorutil:mybatis自动生成(采坑无数)+简单操作 
  * redisCluster:简单的redisCluster+spring例子，没测试过，估计是可以的
  * x-springboot:一个可用的简单后台系统,springboot+redis+mybatisplus+vue
- * SMRRS(MySpringBoot):一个简单的商铺系统,SpringBoot+Mybatis+Druid+Pagehelper+Redis+Shiro+RabbitMQ+Freemarker+poi 
+ * SMRRS(MySpringBoot):一个简单的商铺系统,SpringBoot+Mybatis+Druid+Pagehelper+Redis+Shiro+RabbitMQ+Freemarker+poi
+ * quick-cli：以该项目为首的一系列quick dubbo项目，作者介绍是：基于Dubbo微服务项目快速搭建脚手架，提供基础功能，方便企业快速搭建项目。
+ *            主要技术Dubbo/SpringBoot/Jpa/Redis/MySQL/RabbitMq/Shiro/Zookeeper 
  */
 }
