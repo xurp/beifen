@@ -20,5 +20,6 @@ public class README {
  * quick-cli：以该项目为首的一系列quick dubbo项目，作者介绍是：基于Dubbo微服务项目快速搭建脚手架，提供基础功能，方便企业快速搭建项目。
  *            主要技术Dubbo/SpringBoot/Jpa/Redis/MySQL/RabbitMq/Shiro/Zookeeper 
  * SMRR(spring-boot-06-data-mybatis):非常非常简单基本的SpringBoot集成MyBatis、redis、RabbitMQ、Elasticsearch、定时任务
+ * springbootES(spring5):用了ES的springboot(还有一些常规的中间件)
  */
 }
