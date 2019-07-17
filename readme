@@ -22,6 +22,7 @@ public class README {
  * SMRR(spring-boot-06-data-mybatis):非常非常简单基本的SpringBoot集成MyBatis、redis、RabbitMQ、Elasticsearch、定时任务
  * springbootES(spring5):用了ES的springboot(还有一些常规的中间件)
  * zhihu(springboot-demo-03):springboot+redis+异步+solr的仿知乎项目
+ * iBase4j:非常整合的项目,感觉可以慢慢看,有学习文档
  * film(guns-parent):下属的guns-***,一个film的项目(分布式CM影院系统),没有看完
  */
 }
